@@ -43,8 +43,6 @@ terraform apply
 ```
 terraform destroy
 ```
-> 📌 **Note:** 
-> Make sure to destroy the infrastructure on the AWS account where you created the credentials; otherwise, you might incur charges on your bank account while the service is active.
 
 # Contributing
 If you encounter any issues within the project, suggestions and feedback for the project are greatly appreciated and welcomed! Feel free to share your ideas and recommendations to help enhance the project further. Your input is valuable in improving the overall quality and functionality. 😊
